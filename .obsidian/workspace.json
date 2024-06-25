@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5bcc9660ab48a3d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "853dd58dc80d8d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32f4d4bfc42824e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Ephys Experiments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "965f94dac5ef5ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d73e1631f0b0b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238ef63ba92efc79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fec88522342e4d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6f9ba912d06ac29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8ac09a26d963d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b057c030bc7200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a415978fc31c910",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Experiments/Ephys Experiments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ace29313516c52e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Experiments/Ephys Experiments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f1f622bb5c02d01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a16be8b687125188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Experiments/Ephys Experiments.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d32f4d4bfc42824e",
+  "lastOpenFiles": [
+    "Experiments/Headplate Surgery.md",
+    "Experiments/Ephys Experiments.md",
+    "Experiments"
+  ]
+}
