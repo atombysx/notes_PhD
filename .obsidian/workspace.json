@@ -25,10 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recording Notes/M23032.md",
+                "file": "Analysis/V1 + HVA Single Neuron Analysis.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fcb22db4ceb7f3a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording Notes/M23032.md",
+                "file": "Analysis/V1 + HVA Single Neuron Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recording Notes/M23032.md",
+                "file": "Analysis/V1 + HVA Single Neuron Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording Notes/M23032.md"
+                "file": "Analysis/V1 + HVA Single Neuron Analysis.md"
               }
             }
           }
@@ -162,11 +170,12 @@
   },
   "active": "6e8883e3daf67a31",
   "lastOpenFiles": [
+    "Analysis/V1 + HVA Single Neuron Analysis.md",
+    "Recording Notes/M23032.md",
     "Recording Notes/M23031.md",
     "Literature/Spatial Areas.md",
     "Analysis/Mapping Tracks to Receptive Fields.md",
     "Analysis/Data Structure.md",
-    "Analysis/V1 + HVA Single Neuron Analysis.md",
     "Recording Notes/M23037.md",
     "Literature/Visual Areas.md",
     "Recording Notes/M23038.md",
@@ -177,7 +186,6 @@
     "Thoughts of the Project.md",
     "Experiments Overview.md",
     "Experiments/Ephys Experiments.md",
-    "Recording Notes/M23032.md",
     "Recording Notes/M23035.md",
     "Recording Notes",
     "Experiments/Headplate Surgery.md",
