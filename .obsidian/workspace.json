@@ -32,15 +32,19 @@
             }
           },
           {
-            "id": "fcb22db4ceb7f3a7",
+            "id": "8a757568de3279e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/V1 + HVA Single Neuron Analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,14 +172,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e8883e3daf67a31",
+  "active": "8a757568de3279e5",
   "lastOpenFiles": [
+    "2024-10-07.md",
+    "Analysis/MEC Single Cell.md",
     "Analysis/V1 + HVA Single Neuron Analysis.md",
+    "Analysis/Mapping Tracks to Receptive Fields.md",
+    "Analysis/Data Structure.md",
     "Recording Notes/M23032.md",
     "Recording Notes/M23031.md",
     "Literature/Spatial Areas.md",
-    "Analysis/Mapping Tracks to Receptive Fields.md",
-    "Analysis/Data Structure.md",
     "Recording Notes/M23037.md",
     "Literature/Visual Areas.md",
     "Recording Notes/M23038.md",

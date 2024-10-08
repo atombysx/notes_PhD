@@ -26,6 +26,7 @@ Spatial modulation from 2021 elife mika paper is introduced but additional calcu
 ## Are t1 and t2 modulations independent?
 
 P(t1|t2) & P(t2|t1) high? For neurons modulated in t1, same for t2 or not much?
+Seems not correlated or anti-correlated. Neurons modulated in T1/T2 for Bs dont have 
 
 ## Are there different types of modulations?
 
