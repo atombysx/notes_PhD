@@ -17,7 +17,10 @@ Spatial modulation from 2021 elife mika paper is introduced but additional calcu
 6. SMI is then calculated from $$ SMI_{even} = \frac{R_{even , prefer} - R_{even , nonprefer}}{R_{even,prefer} + R_{even,nonprefer}}$$
  7. Repeat the same for even vs odd.
  8. Take the average of both $$ SMI = \frac{SMI_{odd}+SMI_{even}}{2} $$
+Other approaches:
 
+1. Just do very simple scatter plots for peak firing rate to landmark R1 vs landmark R2 and if no spatial modulation, it should be a y = x line.
+2. Paired t test between firing rate to R1 vs R2
 ## How Many V1 (HVA) neurons are modulated?
 
 
@@ -31,3 +34,18 @@ Seems not correlated or anti-correlated. Neurons modulated in T1/T2 for Bs dont 
 ## Are there different types of modulations?
 
 ## How About Bs? They are shared between T1 and T2
+Calculate Residual Response Ratio:
+ $$ Residual Ratio = \frac{R_{B}-R_{mean}}{R_{mean}} $$
+for each B of B1, B2, B3, B4.
+
+Check the correlation between them and might show contextual difference.
+
+Check different types of modulation.
+
+Seems like there are some anti-correlations between the ratios in the two tracks.
+
+Is there a strong contextual modulation and how do we test it?
+
+Interesting thought: can we actually use MEC representation to predict the contextual modulation on plaids?
+
+Also discussed about control, the novelty and reward zone can be influencing the responses to the plaids so might need to control studies.
